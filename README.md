@@ -7,5 +7,3 @@ Ensemble"
     -[ ] train code release
     -[ ] evaluation code release
     -[ ] pretrained release
-## Acknowledge
-Our code is highly rely on MS-GCN and C2F-TCN. Thanks.
