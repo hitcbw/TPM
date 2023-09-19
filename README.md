@@ -13,10 +13,11 @@ We simplify the training logic, which don't follow config-based and function-bas
         - public block: train/eval controller    
 - README.md
 # Acknowledgement
-Our code borrow: 
-- STGCN code from @
-- C2FTCN code from @
-- Metric code from @
-Thanks for their efforts.
+Our code is inspired from: 
+- STGCN code from [@mmaction2](https://github.com/open-mmlab/mmaction2)
+- C2FTCN code from [@C2F-TCN](https://github.com/dipika-singhania/C2F-TCN)
+- Metric code from [@ASRF](https://github.com/yiskw713/asrf)
+Much appreciate for their efforts.
 # Reference
-If you found this repo useful, please cite this:
+If you found this repo useful, please cite our arxiv version:
+> not uploaded yet
