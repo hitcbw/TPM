@@ -134,4 +134,4 @@ for epoch in range(args.num_epochs):
 
     if e % args.eval_period == 0:
         result = eval()
-        pprint result
+        pprint (result)
